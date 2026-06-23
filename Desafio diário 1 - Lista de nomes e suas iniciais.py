@@ -1,3 +1,9 @@
+# Desafio 1 foi criar uma verificacao e organizacao de uma lista de nomes,
+# Nao poderia conter nomes repetidos dentro de um unico nome,
+# Nem espacos no inicio ou no final da str
+# Deveria ser mostrado apenas as iniciais de cada nome e a contagem total de nomes por nome (Sim, confuso assim)
+# E eu ainda não consegui fazer direito, mas fazer o que, vai assim mesmo essa merreca, deu trabalho. 
+
 nome = ("Marcos Silva Pires, paulo  Luiz Alberto, robErto Coelho Franco ,Laisla Laisla Laisla, Pedro Joaquim Joaquim , Joaquim fernando  , luiz   ")
 
 Resultado = []
